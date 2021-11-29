@@ -126,6 +126,8 @@ border-radius: 20px;
   flex-direction: column;
   align-items: flex-start;
   padding: 5px 15px;
+  margin-top: 0;
+  margin-bottom: 60px;
 width: 180px;
 border: 1px solid rgb(255, 255, 255, 0.8);
 border-radius: 41px;
@@ -138,6 +140,8 @@ border-radius: 41px;
 }
 
 .hero-heading{
+  margin-top: 0;
+  margin-bottom: 25px;
   font-family: "Inter";
   font-style: normal;
   font-weight: bold;
@@ -146,7 +150,10 @@ border-radius: 41px;
 }
 
 .hero-text{
+  margin-top: 0;
+  margin-bottom: 210px;
   width: 347px;
+
   font-family: "Inter";
   font-style: normal;
   font-weight: normal;
